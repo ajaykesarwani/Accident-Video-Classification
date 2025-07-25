@@ -1,4 +1,4 @@
-# Acident Video Classification
+# Prediction of Traffic Accidents in DashCam Videos
 
 This repository contains two Jupyter notebooks demonstrating a convolutional neural network (CNN) for accident video classification, with and without a pretrained model approach. The model is designed to classify images into multiple classes using Keras and TensorFlow.
 
@@ -20,7 +20,7 @@ The goal of this project is to build and improve an accident video classificatio
 
 2. **Final Training & Evaluation** (`Final_CNN.ipynb`):
    - Load the saved pretrained weights.
-   - Continue training or fine-tune on the same or new dataset.
+   - Continue training or fine-tune on the same or a new dataset.
    - Evaluate the model’s performance.
 
 ---
