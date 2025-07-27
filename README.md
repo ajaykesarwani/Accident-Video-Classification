@@ -34,7 +34,6 @@ Additionally, an LSTM-based model was explored to capture **temporal dependencie
 
 - `Pretrain Model.ipynb` – Trains and saves a CNN model from scratch.
 - `Final_CNN.ipynb` – Loads pretrained weights, fine-tunes the model, and evaluates it.
-- (Optional: Not included in repo but mentioned) `LSTM_Model.ipynb` – Implements LSTM-based classification using frame sequences. *(Can be added if you want to include it in the repo.)*
 
 ---
 
